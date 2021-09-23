@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.6.
 
-##Detalhes
+## Detalhes
 
 A aplicação ao iniciar já traz do banco de dados os dados as informações da tabela Cliente, Conta e Banco, as demais são geradas a partir das requisições. 
 
@@ -14,7 +14,7 @@ Os problemas ocorreram dentro do esperado ao desenvolver ambas aplicações, err
 
 Outo problema que eu não esperava que acontecesse foi no Git Bash, não usava ele a muito tempo, e com a mudança da GitHub da branche “master” para “main” ocorreram erros, mas buscando na web conseguir resolver, como utilizo Visual Studio como ambiente de desenvolvimento padrão, não percebi essa mudança pois dentro do Visual Studio para gerenciar os repositórios é bem mais fácil e não preciso usar linhas de comando.
 
-##Postman
+## Postman
 
 Dentro de ambos os repositorios tem o arquivo do Postmna -> TivicBank.postman_collection.json
 
